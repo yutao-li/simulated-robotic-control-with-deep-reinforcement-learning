@@ -1,2 +1,3 @@
 # simulated-robotic-control-with-deep-reinforcement-learning
-implemented RL algorithms and trained simulated robotic models to accomplish specific tasks
+implemented mainstream deep RL algorithms such as double DQN, dueling DQN, DQN with prioritized experience replay and DDPG with tensorflow  
+trained the humanoid, ant and other models on OpenAI MuJoCo simulated platform to accomplish specific tasks (mainly running).
